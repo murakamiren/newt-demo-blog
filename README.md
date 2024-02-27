@@ -6,10 +6,14 @@ First, run the development server:
 
 ```bash
 pnpm i
+```
 
 then,
 
+```bash
 pnpm dev
 ```
 
-このサイトはデモです
+サーバーが起動し、サイトが表示されれば成功です。
+
+このサイトはデモです。
